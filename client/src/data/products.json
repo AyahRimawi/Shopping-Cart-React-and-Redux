@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "item 1",
+    "price": 12.99,
+    "image": "https://i.pinimg.com/564x/21/a6/00/21a600340ed3111fb46c9dec497f2ad9.jpg"
+  },
+  {
+    "id": 2,
+    "name": "item 2",
+    "price": 10.99,
+    "image": "https://i.pinimg.com/564x/80/bc/83/80bc83832c11844f5047a5c8c5402872.jpg"
+  },
+  {
+    "id": 3,
+    "name": "item 3",
+    "price": 9.99,
+    "image": "https://i.pinimg.com/564x/3d/62/c3/3d62c3c5e7c0ded924848c252dd9ca38.jpg"
+  },
+  {
+    "id": 4,
+    "name": "item 4",
+    "price": 14.99,
+    "image": "https://i.pinimg.com/564x/ff/75/80/ff75804e807c6c50499655940f37f1b2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "item 5",
+    "price": 14.99,
+    "image": "https://i.pinimg.com/564x/ed/e8/b1/ede8b1cfa54172b4ca4a4cca51b8be12.jpg"
+  },
+  {
+    "id": 6,
+    "name": "item 6",
+    "price": 14.99,
+    "image": "https://i.pinimg.com/564x/a1/2d/a6/a12da642ab25fc1dd7ed336cc0514af8.jpg"
+  }
+]

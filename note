@@ -1,0 +1,14 @@
+src/
+  ├── components/
+  │   ├── Cart.js
+  │   ├── CartItem.js
+  │   └── ProductList.js
+  ├── features/
+  │   └── cart/
+  │       └── cartSlice.js
+  ├── app/
+  │   └── store.js
+  ├── data/
+  │   └── products.json
+  ├── App.js
+  └── index.js
