@@ -37,7 +37,7 @@ const CartItem = ({ item }) => {
           onClick={() => dispatch(removeFromCart(item.id))}
           className="bg-DBB5B5 text-987070 px-2 py-1 rounded hover:bg-C39898 transition-colors"
         >
-          Delete
+          🗑️ Delete
         </button>
       </div>
     </div>

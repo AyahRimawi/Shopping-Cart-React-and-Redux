@@ -21,7 +21,7 @@ const ProductList = () => {
             onClick={() => dispatch(addToCart(product))}
             className="mt-2 bg-DBB5B5 text-987070 px-4 py-2 rounded hover:bg-C39898 transition-colors"
           >
-            Add to cart
+            🛍️ Add to cart
           </button>
         </div>
       ))}

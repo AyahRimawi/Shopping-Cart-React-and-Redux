@@ -12,3 +12,22 @@ src/
   │   └── products.json
   ├── App.js
   └── index.js
+--------------------------------------------------------------
+فصل الشرائح حسب المجال:
+cartSlice: لإدارة سلة التسوق.
+userSlice: لإدارة معلومات المستخدم.
+productsSlice: لإدارة قائمة المنتجات.
+settingsSlice: لإدارة إعدادات التطبيق.
+----------------------------------------------------------------
+* الخطوة 1: إعداد Redux
+npm install @reduxjs/toolkit react-redux
+1. إنشاء Slices
+تحتوي الـ slices على الحالة الخاصة بك والـ reducers
+2.  إعداد Store
+يجمع كل الـ slices
+3. توفير Store لمكونات React
+يعني حط ال provider بال app
+
+* الخطوة 2: استخدام Redux في المكونات
+1. قراءة البيانات useSelector
+2. إرسال الإجراءات useDispatch
